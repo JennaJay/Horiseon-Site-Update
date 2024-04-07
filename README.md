@@ -15,7 +15,7 @@ I want to update this website to contain accessibility standards and be better o
 ## Screenshot
 ![Alt text](image-1.png)
 
-## Links
+## Link
 http://Jennajay.github.io/Horiseon-Site-Update
 
 ## License
